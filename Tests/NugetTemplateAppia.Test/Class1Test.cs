@@ -1,6 +1,6 @@
-namespace NugetTemplate.Test;
+namespace NugetTemplateAppia.Test;
 
-using NugetTemplate;
+using NugetTemplateAppia;
 using Xunit;
 
 public class Class1Test

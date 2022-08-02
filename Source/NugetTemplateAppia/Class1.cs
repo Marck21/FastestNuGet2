@@ -1,4 +1,4 @@
-namespace NugetTemplate;
+namespace NugetTemplateAppia;
 
 /// <summary>
 /// Some class.

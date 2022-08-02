@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup Label="Project References">
-    <ProjectReference Include="..\..\Source\NugetTemplate\NugetTemplate.csproj" />
+    <ProjectReference Include="..\..\Source\NugetTemplateAppia\NugetTemplateAppia.csproj" />
   </ItemGroup>
 
 </Project>

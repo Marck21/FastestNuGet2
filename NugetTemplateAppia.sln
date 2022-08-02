@@ -53,9 +53,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".github", ".github", "{0555
 		.github\SECURITY.md = .github\SECURITY.md
 	EndProjectSection
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NugetTemplate", "Source\NugetTemplate\NugetTemplate.csproj", "{39012C52-0251-46D1-9254-5B09E3551141}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NugetTemplateAppia", "Source\NugetTemplateAppia\NugetTemplateAppia.csproj", "{39012C52-0251-46D1-9254-5B09E3551141}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NugetTemplate.Test", "Tests\NugetTemplate.Test\NugetTemplate.Test.csproj", "{6E49B894-8B1E-462A-BE77-E28AF2BD86CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NugetTemplateAppia.Test", "Tests\NugetTemplateAppia.Test\NugetTemplateAppia.Test.csproj", "{6E49B894-8B1E-462A-BE77-E28AF2BD86CA}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".github", ".github", "{EFE1E5ED-D337-4874-82EC-D9FA0BC7D3AB}"
 	ProjectSection(SolutionItems) = preProject
